@@ -9,7 +9,7 @@ except:
     subprocess.run(['pip', 'install', 'matplotlib'])
     import matplotlib.pyplot as plt
 
-path='C:/PythonProgrammingProject_main-folder'
+path='C:/ProgrammingProject1stSem'
 print('-'*50)
 
 
